@@ -53,9 +53,9 @@ flowchart LR
 
 ```bash
 # .env の中身（例）
-API_KEY=sk-abcdef1234567890
-DATABASE_PASSWORD=mySecret123
-OPENAI_API_KEY=sk-...
+API_KEY=xxxxxxxxxxxxxxxx（ダミー）
+DATABASE_PASSWORD=********（ダミー）
+OPENAI_API_KEY=xxxxxxxxxxxxxxxx（ダミー）
 ```
 
 | メリット | 内容 |
